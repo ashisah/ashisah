@@ -1,6 +1,6 @@
 💻 Software Developer I @ Cleveland Clinic | 🎓 B.S. Computer Science & B.A. Economics, Case Western Reserve University  
 
-I’m passionate about building **data pipelines, analytical tools, and full-stack applications** that make data more useful and actionable. My work spans healthcare, finance, and data engineering — with a strong interest in how technology shapes decision-making.  
+I’m passionate about building **data pipelines, analytical tools, and full-stack applications** that make data more useful and actionable. My work spans healthcare, insurance, and data engineering — with a strong interest in how technology shapes decision-making.  
 
 ---
 
