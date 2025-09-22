@@ -9,7 +9,7 @@ I’m passionate about building **data pipelines, analytical tools, and full-sta
 - **Data Engineering:** Apache Airflow, Postgres, SQL Server, AWS (SageMaker, QuickSight), Palantir Foundry
 - **Machine Learning:** scikit-learn, Surprise, NumPy, pandas, regression & clustering models
 - **Visualization:** Tableau, matplotlib, seaborn, Plotly
-- **Other:** Git/GitHub, Docker, Heroku, Render, REST APIs
+<!--- **Other:** Git/GitHub, Docker, Heroku, Render, REST APIs-->
 
 ---
 
